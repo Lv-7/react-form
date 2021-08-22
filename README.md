@@ -1,2 +1,2 @@
 # react-form
-form
+form validation with regex
